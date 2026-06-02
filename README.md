@@ -20,7 +20,7 @@ A comprehensive 800-1000 words research report exploring the transformative role
 - Comparative analysis between Traditional and IoT-enabled healthcare.
 - Future trends involving 5G and Artificial Intelligence.
 
-📄 **[Click here to view the Task 1 PDF Report](./CodeAlpha_Task1_Colorful_IoT_Report_v2.pdf)**
+[Task1_IoT_Report_.pdf](https://github.com/user-attachments/files/28504166/Task1_IoT_Report_BlackHeadings.pdf)
 
 ---
 *Internship provided by [CodeAlpha](https://www.linkedin.com/company/codealpha/)*# CodeAlpha_IoT_Internship
